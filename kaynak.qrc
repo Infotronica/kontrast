@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/image.jpg</file>
+        <file>img/contrast.png</file>
+        <file>img/IMG_20191030_173910.jpg</file>
+    </qresource>
+</RCC>
